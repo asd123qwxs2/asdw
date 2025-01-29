@@ -15,3 +15,6 @@ def reu():
 def server_no():
     t = Thread(target=reu)  # ใช้ target=reu แทน Tarhrt=run
     t.start()
+
+# เรียกใช้งานฟังก์ชัน server_no
+server_no()
