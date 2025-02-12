@@ -24,10 +24,10 @@ def server_no():
 server_no()
 
 # 🎮 ตั้งค่าตัวแปรสำคัญของบอท Discord
-GUILD_ID = 1320391859322753075
-CHANNEL_ID = 1320391859322753082
-HISTORY_CHANNEL_ID = 1320391859754897480
-ROLE_ID = 1324684543709413498
+GUILD_ID = 1339204153196548096
+CHANNEL_ID = 1339218936134238270
+HISTORY_CHANNEL_ID = 1339222957981044736
+ROLE_ID =1339218777300275220
 
 intents = discord.Intents.default()
 intents.message_content = True
